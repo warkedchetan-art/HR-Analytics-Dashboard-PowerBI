@@ -22,9 +22,7 @@ This dashboard helps HR departments monitor employee attrition, analyze employee
 - Data Visualization
 - Data Analysis
 
-## Dashboard Preview
-
-![HR Analytics Dashboard](Screenshot 2026-11-24 113442.png)
+![HR Analytics Dashboard](./Screenshot%202026-11-24.png)
 
 ## Dashboard KPIs
 
